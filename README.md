@@ -71,12 +71,19 @@ The Differences are:
     - Print the loss and accuracy per epoch
     
 ## RNN IMPLEMENTATION
-- THis is still a work in progress
+- This is still a work in progress
 - My current work in on defining the RNN model architecture
     
 # OUTCOME
 The outcome of this research experience showed that slip detection and slip prediction performed better with CNN than the DNN.
+
+## FOR SLIP DETECTION
 <img width="1131" alt="Screenshot 2022-11-21 at 19 11 21" src="https://user-images.githubusercontent.com/44223263/203129285-ecf62af4-88c7-4657-8ddd-a62738310133.png">
+
+## FOR SLIP PREDICTION
+<img width="1129" alt="Screenshot 2022-11-21 at 19 12 46" src="https://user-images.githubusercontent.com/44223263/203129569-7f803cfc-46b9-49a7-9267-73141fd3cce3.png">
+
+<img width="1128" alt="Screenshot 2022-11-21 at 19 13 29" src="https://user-images.githubusercontent.com/44223263/203129695-62e0e777-910c-4ebe-aa89-0cb08e7b77bf.png">
 
 
 
