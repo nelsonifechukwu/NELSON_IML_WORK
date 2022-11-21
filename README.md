@@ -76,6 +76,7 @@ The Differences are:
     
 # OUTCOME
 The outcome of this research experience showed that slip detection and slip prediction performed astonishingly well with CNN than the DNN
+![Screenshot 2022-11-21 at 17 57 54](https://user-images.githubusercontent.com/44223263/203128520-0c64a982-2c26-4e6c-9288-1dd34611e06a.jpg)
 
 
 
