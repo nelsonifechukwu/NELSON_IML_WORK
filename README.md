@@ -74,6 +74,9 @@ The Differences are:
 - THis is still a work in progress
 - My current work in on defining the RNN model architecture
     
+# OUTCOME
+The outcome of this research experience showed that slip detection and slip prediction performed astonishingly well with CNN than the DNN
+
 
 
 
