@@ -62,5 +62,9 @@
 - Check the metrics of the model using the actual slip label and predicted slip label
 
 ## RESNET IMPLEMENTATION
+- Follows similar procedure of the CNN implementation
+  - The Differences are:
+    - dwsdsd 
+
 
 
