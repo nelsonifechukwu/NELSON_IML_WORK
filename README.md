@@ -7,6 +7,6 @@
 - Read the sensor data (xela) 
   - Replace directory with the path of the data in train2dof folder
 - Concat all the data from all subfolders in the train2dof folder
-- Arrange each row of the tabular data into images of the form 3*4*4 of tx_x, tx_y, tx_z 
+- Arrange each row of the tabular data into images of the form 3* 4* 4 of tx_x, tx_y, tx_z 
 
 - 
