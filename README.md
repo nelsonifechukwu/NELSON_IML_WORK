@@ -63,8 +63,17 @@
 
 ## RESNET IMPLEMENTATION
 - Follows similar procedure of the CNN implementation
-  - The Differences are:
-    - dwsdsd 
+The Differences are:
+    - Upscale the image from 3 * 4 * 4 to 3 * 224 * 224 (The cluster machine kept crashing on this task)
+    - Create the batch training structure
+    - Define the model to use the last layer of a pretrained RESNET model by frezzing all the RESNET network except the final layer
+    - Train the model
+    - Print the loss and accuracy per epoch
+    
+## RNN IMPLEMENTATION
+- THis is still a work in progress
+- My current work in on defining the RNN model architecture
+    
 
 
 
