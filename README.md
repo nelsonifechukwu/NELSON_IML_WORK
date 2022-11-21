@@ -1,6 +1,6 @@
 # NELSON_IML_WORK
 
-**This is a project on the systematic investigation of methods for slip detection and prediction in robotic manipulation carried out in the IML laboratory. See more here. **
+**This is a project on the systematic investigation of methods for slip detection and prediction in robotic manipulation carried out in the IML laboratory. See more [here](https://github.com/nelsonifechukwu/NELSON_IML_WORK/blob/b2a4897fc904ffaf1a70a4c53e4c45b92d5c31b0/Systematic%20investigation%20of%20methods%20for%20slip%20detection%20and%20prediction%20in%20robotic%20manipulation.pdf). **
 
 # STEPS
 
@@ -85,6 +85,6 @@ The outcome of this research experience showed that slip detection and slip pred
 
 <img width="1128" alt="Screenshot 2022-11-21 at 19 13 29" src="https://user-images.githubusercontent.com/44223263/203129695-62e0e777-910c-4ebe-aa89-0cb08e7b77bf.png">
 
-See more analysis [here](https://github.com/nelsonifechukwu/NELSON_IML_WORK/blob/b2a4897fc904ffaf1a70a4c53e4c45b92d5c31b0/Systematic%20investigation%20of%20methods%20for%20slip%20detection%20and%20prediction%20in%20robotic%20manipulation.pdf).
+See more analysis [here](https://github.com/nelsonifechukwu/NELSON_IML_WORK/blob/4e52efab9755bc6cb38aa423ce8af755f16b6fee/IML%20-%20Sheet1.pdf).
 
 
