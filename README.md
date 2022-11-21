@@ -2,7 +2,7 @@
 
 **This is a project on the systematic investigation of methods for slip detection in robotic manipulation carried out in the IML laboratory.**
 
-##Steps
+## Steps
 - Import the required libraries
 - Read the sensor data (xela) 
  - Replace directory with the path of the data in train2dof 
