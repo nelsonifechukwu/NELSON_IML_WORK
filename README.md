@@ -5,5 +5,5 @@
 ## Steps
 - Import the required libraries
 - Read the sensor data (xela) 
- - Replace directory with the path of the data in train2dof 
+  - Replace directory with the path of the data in train2dof 
 - 
