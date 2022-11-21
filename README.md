@@ -39,8 +39,8 @@
         - Split the data into train and test data
         - Scale the data
         - Convert to tensor values 
-        - Create the batch training structure
-        - Create the Neural Network Architecture (3 layers)
+        - Define the batch training structure
+        - Define the Neural Network Architecture (3 layers)
         - Instantiate the model, define the leqarning rate, loss, and optimizer
         - Train the model
         - Print the loss and accuracy per epoch
@@ -48,5 +48,19 @@
 
 
 ## CNN IMPLEMENTATION
+- Open the cnn_pytorch_tactile.ipynb file
+- Start from the CN IMPLEMENTAATION markdown
 - Upscale the 3 * 4 * 4 image to 3 * 16 * 16 to have enough features to train the CNN model
-- 
+- Convert the images to tensor values
+- Split the data into test and training sets
+- Define the batch traning architecture
+- Define the CNN architecture (the architecture present in the file gave an awesome performance during experimentation)
+- Instantiate the model, define the leqarning rate, loss, and optimizer
+- Train the model
+- Print the loss and accuracy per epoch
+- Define the metrics 
+- Check the metrics of the model using the actual slip label and predicted slip label
+
+## RESNET IMPLEMENTATION
+
+
