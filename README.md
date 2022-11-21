@@ -75,8 +75,8 @@ The Differences are:
 - My current work in on defining the RNN model architecture
     
 # OUTCOME
-The outcome of this research experience showed that slip detection and slip prediction performed astonishingly well with CNN than the DNN
-![Screenshot 2022-11-21 at 17 57 54](https://user-images.githubusercontent.com/44223263/203128520-0c64a982-2c26-4e6c-9288-1dd34611e06a.jpg)
+The outcome of this research experience showed that slip detection and slip prediction performed better with CNN than the DNN.
+<img width="1131" alt="Screenshot 2022-11-21 at 19 11 21" src="https://user-images.githubusercontent.com/44223263/203129285-ecf62af4-88c7-4657-8ddd-a62738310133.png">
 
 
 
