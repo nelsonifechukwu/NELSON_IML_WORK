@@ -75,6 +75,10 @@ The Differences are:
 ## RNN IMPLEMENTATION
 - This is still a work in progress
 - My current work in on defining the RNN model architecture
+
+## LSTM IMPLEMENTATION
+- Define the architecture of the LSTM network
+- It's a many to one problem with 10 sequences
     
 # OUTCOME
 The outcome of this research experience showed that slip detection and slip prediction performed better with CNN than the DNN. 
