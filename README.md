@@ -73,12 +73,18 @@ The Differences are:
     - Print the loss and accuracy per epoch
     
 ## RNN IMPLEMENTATION
-- This is still a work in progress
-- My current work in on defining the RNN model architecture
+- Define the feature of the RNN 
+- Train the model
+- Issues occur due to vanishing and exploding gradients
 
 ## LSTM IMPLEMENTATION
 - Define the architecture of the LSTM network
-- It's a many to one problem with 10 sequences
+- It's a many-to-one problem with 10 sequences
+
+## CONVLSTM IMPLEMENTATION
+- Rearrange the data to cater to both temporal and spatial features of the sensor data
+- Form a convolution from the images
+- Train an LSTM model
     
 # OUTCOME
 The outcome of this research experience showed that slip detection and slip prediction performed better with CNN than the DNN. 
