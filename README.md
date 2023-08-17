@@ -90,11 +90,11 @@ The Differences are:
 The outcome of this research experience showed that slip detection and slip prediction performed better with CNN than with the DNN. 
 
 ## FOR SLIP DETECTION
-<img width="1131" alt="Screenshot 2022-11-21 at 19 11 21" src="https://user-images.githubusercontent.com/44223263/203129285-ecf62af4-88c7-4657-8ddd-a62738310133.png">
+<img width="990" alt="slip detection" src="https://github.com/nelsonifechukwu/NELSON_IML_WORK/assets/44223263/5d822f53-5c1b-4d4a-825e-cdf00fb322d4">
 
 ## FOR SLIP PREDICTION
-<img width="1129" alt="Screenshot 2022-11-21 at 19 12 46" src="https://user-images.githubusercontent.com/44223263/203129569-7f803cfc-46b9-49a7-9267-73141fd3cce3.png">
+<img width="665" alt="Screenshot 2023-08-17 at 16 34 40" src="https://github.com/nelsonifechukwu/NELSON_IML_WORK/assets/44223263/5979cf2c-1671-4883-8514-fc9a2b0e03e2">
 
-<img width="1128" alt="Screenshot 2022-11-21 at 19 13 29" src="https://user-images.githubusercontent.com/44223263/203129695-62e0e777-910c-4ebe-aa89-0cb08e7b77bf.png">
+<img width="665" alt="Screenshot 2023-08-17 at 16 34 40" src="https://github.com/nelsonifechukwu/NELSON_IML_WORK/assets/44223263/76d6dcfe-3b1d-4ef6-bf2b-5a932c7f8feb">
 
 N.B: My learning and practice of concepts in researching Artificial Intelligence can be found in practice
