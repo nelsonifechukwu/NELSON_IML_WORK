@@ -4,7 +4,7 @@
 
 N.B: My learning and practice of concepts in researching Artificial Intelligence can be found in practice
 
-**Access my presentation [here]()**
+**Access my presentation [here](https://docs.google.com/presentation/d/1YGkoTk0kPfvVGeXpBM2Hz6Qta-XnyCLG41HLs9zi9ws/edit?usp=sharing)**
 
 # STEPS
 
