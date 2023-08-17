@@ -2,13 +2,15 @@
 
 **This is a project that constitutes my research work on the systematic investigation of methods for slip detection and prediction in robotic manipulation carried out at the [IML laboratory](intmanlab.com). See more [here](https://github.com/nelsonifechukwu/NELSON_IML_WORK/blob/b2a4897fc904ffaf1a70a4c53e4c45b92d5c31b0/Systematic%20investigation%20of%20methods%20for%20slip%20detection%20and%20prediction%20in%20robotic%20manipulation.pdf).**
 
-N.B: My learning and practice of concepts in researching Artificial Intelligence can be found under practice
+N.B: My learning and practice of concepts in researching Artificial Intelligence can be found in practice
+
+**Access my presentation [here]()**
 
 # STEPS
 
 ## READING THE XELA SENSOR DATA
 - Import the required libraries
-- Read the xela sensor data (input) along it's slip labels (output)
+- Read the xela sensor data (input) along its slip labels (output)
   - NB: Replace the directory with the path of the data in train2dof folder
 - Concat all the data from all subfolders in the train2dof folder
 
