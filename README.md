@@ -87,13 +87,13 @@ The Differences are:
 - Train an LSTM model
     
 # OUTCOME
-The outcome of this research experience showed that slip detection and slip prediction performed better with CNN than with the DNN. 
+The outcome of this research experience showed that slip detection and slip prediction performed better with spatial models than with temporal models (RNN, LSTM) or simple Densely connected Neural Networks models (DNN). 
 
 ## FOR SLIP DETECTION
 <img width="990" alt="slip detection" src="https://github.com/nelsonifechukwu/NELSON_IML_WORK/assets/44223263/5d822f53-5c1b-4d4a-825e-cdf00fb322d4">
 
 ## FOR SLIP PREDICTION
-<img width="665" alt="Screenshot 2023-08-17 at 16 34 40" src="https://github.com/nelsonifechukwu/NELSON_IML_WORK/assets/44223263/5979cf2c-1671-4883-8514-fc9a2b0e03e2">
+<img width="645" alt="Screenshot 2023-08-17 at 16 34 28" src="https://github.com/nelsonifechukwu/NELSON_IML_WORK/assets/44223263/86252c70-18db-4864-b730-1739b3a66c1c">
 
 <img width="665" alt="Screenshot 2023-08-17 at 16 34 40" src="https://github.com/nelsonifechukwu/NELSON_IML_WORK/assets/44223263/76d6dcfe-3b1d-4ef6-bf2b-5a932c7f8feb">
 
