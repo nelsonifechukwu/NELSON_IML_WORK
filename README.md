@@ -2,7 +2,7 @@
 
 **This is a project that constitutes my research work on the systematic investigation of methods for slip detection and prediction in robotic manipulation carried out at the [IML laboratory](https://intmanlab.com/). See more on my work history [here](https://github.com/nelsonifechukwu/NELSON_IML_WORK/blob/b2a4897fc904ffaf1a70a4c53e4c45b92d5c31b0/Systematic%20investigation%20of%20methods%20for%20slip%20detection%20and%20prediction%20in%20robotic%20manipulation.pdf).**
 
-**Access my presentation [here](https://docs.google.com/presentation/d/1YGkoTk0kPfvVGeXpBM2Hz6Qta-XnyCLG41HLs9zi9ws/edit?usp=sharing)**
+**Access my presentation [here](https://docs.google.com/presentation/d/1YGkoTk0kPfvVGeXpBM2Hz6Qta-XnyCLG41HLs9zi9ws/edit?usp=sharing).**
 
 # STEPS
 
