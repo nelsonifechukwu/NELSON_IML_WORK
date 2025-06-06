@@ -142,3 +142,7 @@ class VisionTransformer(nn.Module):
 
         return x # (n_samples, n_classes)
 
+
+model = VisionTransformer(image_size=4, patch_size=1, in_chans=3*10, n_classes=1,
+                  embed_dim=32, depth=2, n_heads=2, mlp_ratio=1., 
+                  qkv_bias=True, p=0.1, attn_p=0.1, proj_p=0.1).to("cpu")
